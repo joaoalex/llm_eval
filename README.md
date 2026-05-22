@@ -1,4 +1,4 @@
-# LLM Eval Framework — Hedge BTC Rules v2
+# LLM Eval Framework — trade Rules v2
 
 Avalia a capacidade do Gemini seguir regras de trading em linguagem natural,
 comparando 3 abordagens de prompt.
